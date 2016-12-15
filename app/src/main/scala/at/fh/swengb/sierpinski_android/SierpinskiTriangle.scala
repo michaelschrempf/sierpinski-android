@@ -1,7 +1,7 @@
 package at.fh.swengb.sierpinski_android
 
 import android.content.Context
-import android.graphics.{Canvas, Paint}
+import android.graphics._
 import android.util.AttributeSet
 import android.view.View
 
